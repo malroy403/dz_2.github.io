@@ -1,0 +1,23 @@
+h1{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+background-color: burlywood;
+text-align: center;
+}
+
+bottom{
+  margin: 0;
+     padding: 0;
+     list-style-type: none;
+}
+
+bottom li {
+  margin: 0 10px 0 0;
+  padding: 0;
+  display: inline;
+}
